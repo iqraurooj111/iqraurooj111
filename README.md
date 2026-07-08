@@ -1,5 +1,5 @@
- # 💫 About Me:
-🚀 Full Stack Developer specializing in building cloud-native applications.<br><br>☁️ AWS Enthusiast actively working on cloud architectures and deployments.<br><br>👩‍💻 BS CS Student combining academic foundations with hands-on engineering.<br><br>👥 Operations & Community Core Lead at AWS Student Builder Groups, Gomal University. .<br><br>🤝 Open Source Enthusiast passionate about contributing to impactful projects and collaborating with the Global developer community.
+# 💫 About Me:
+🚀 Full Stack Developer specializing in building cloud-native applications.<br><br>☁️ AWS Enthusiast actively working on cloud architectures and deployments.<br><br>👩‍💻 BS CS Student combining academic foundations with hands-on engineering.<br><br>👥 Operations & Community Core Lead at AWS Student Builder Groups, Gomal University. .<br><br>🤝 Open Source Enthusiast passionate about contributing to impactful projects and collaborating with the global developer community.
 
 
 ## 🌐 Socials:
@@ -22,6 +22,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=iqraurooj111&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=iqraurooj111&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![](https://komarev.com/ghpvc/?username=iqraurooj111&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
