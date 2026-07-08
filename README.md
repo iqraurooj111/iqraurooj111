@@ -1,5 +1,5 @@
  # 💫 About Me:
-🚀 Full Stack Developer specializing in building cloud-native applications.<br><br>☁️ AWS Enthusiast actively working on cloud architectures and deployments.<br><br>👩‍💻 BS CS Student combining academic foundations with hands-on engineering.<br><br>👥 Operations & Community Core Lead at AWS Student Builder Groups, Gomal University. .<br><br>🤝 Open Source Enthusiast passionate about contributing to impactful projects and collaborating with the global developer community.
+🚀 Full Stack Developer specializing in building cloud-native applications.<br><br>☁️ AWS Enthusiast actively working on cloud architectures and deployments.<br><br>👩‍💻 BS CS Student combining academic foundations with hands-on engineering.<br><br>👥 Operations & Community Core Lead at AWS Student Builder Groups, Gomal University. .<br><br>🤝 Open Source Enthusiast passionate about contributing to impactful projects and collaborating with the Global developer community.
 
 
 ## 🌐 Socials:
